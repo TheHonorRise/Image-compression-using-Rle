@@ -9,3 +9,4 @@ checks the signature of the irm file (should be 'IR')
 ## register 
 a script to register the new image format '.IRM' as a recognizable format in matlab. (to use imread ans imwrite for .irm).
 # User interface with matlab AppDesigner to test the proposed compression
+![screenshot](screenshots/1.jpeg)
